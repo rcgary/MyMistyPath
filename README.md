@@ -1,2 +1,2 @@
-# [MyMistyPath](https://www.mymistypath.com)
+# MyMistyPath
 Misty's blog
