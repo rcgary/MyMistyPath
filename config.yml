@@ -60,6 +60,8 @@ languages:
             imageHeight: 120
             imageTitle: avatar
         socialIcons:
+        - name: "houzz"
+          url: "https://www.houzz.com.au/pro/mistyz789"
         - name: "instagram"
           url: "https://www.instagram.com/misty_leileilei/"
         - name: "rss"
@@ -86,12 +88,14 @@ languages:
         profileMode:
             enabled: true
             title: "Misty Zhang"
-            subtitle: "🎨 Interior Designer | 💐 Florist | ‍💡 Practitioner | ☁️ Daydreamer"
+            subtitle: "点滴时刻，偶然发生，些许态度。"
             imageUrl: "/images/avatar.webp"
             imageWidth: 120
             imageHeight: 120
             imageTitle: avatar
         socialIcons:
+        - name: "houzz"
+          url: "https://www.houzz.com.au/pro/mistyz789"
         - name: "instagram"
           url: "https://www.instagram.com/misty_leileilei/"
         - name: "rss"
