@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Misty Path</title>
+    <link>https://mymistypath.com/</link>
+    <description>Recent content on My Misty Path</description>
+    <image>
+      <title>My Misty Path</title>
+      <url>https://mymistypath.com/images/og.png</url>
+      <link>https://mymistypath.com/images/og.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://mymistypath.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://mymistypath.com/about/</link>
+      <pubDate>Sun, 05 Mar 2023 19:50:53 +1100</pubDate>
+      
+      <guid>https://mymistypath.com/about/</guid>
+      <description>Welcome to Misty Path 🌿, where I share my thoughts and works.
+I&amp;rsquo;m Misty…
+I&amp;rsquo;m a design learner 🎨 who believes good design should be both functional and beautiful. Although this might sound like a cliché, I understand the philosophy in my own way. To me, it&amp;rsquo;s about seamlessly integrating the function within the structure so that the purpose of the design is always clear and intuitive. It&amp;rsquo;s also about creating beautiful works while acknowledging that beauty can be subjective and everyone has their unique perspective.</description>
+    </item>
+    
+  </channel>
+</rss>

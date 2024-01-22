@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mymistypath.com/about/</loc>
+    <lastmod>2023-03-05T19:50:53+11:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mymistypath.com/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mymistypath.com/about/"
+                />
+  </url><url>
+    <loc>https://mymistypath.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mymistypath.com/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mymistypath.com/"
+                />
+  </url><url>
+    <loc>https://mymistypath.com/posts/</loc>
+  </url>
+</urlset>
