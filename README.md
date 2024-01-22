@@ -1,2 +1,2 @@
 # MyMistyPath
-Misty's blog - mymistypath.com
+Misty's blog - www.mymistypath.com
